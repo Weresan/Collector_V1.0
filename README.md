@@ -1,8 +1,8 @@
-# Collector V1.0 - Blender Add-on
+# Collector V1.2 - Blender Add-on
 
 **Author:** Were Sankofa  
 **Blender Version:** 3.6+  
-**Version:** 1.0  
+**Version:** 1.2  
 
 ---
 
@@ -19,6 +19,7 @@ Collector is a Blender add-on designed to automatically organize cameras and lig
 - Manual organization button in the sidebar panel.
 - Toggle to enable/disable automatic organization.
 - **New:** Export an organization report as a text file listing all cameras and lights and their collections.
+- **New in 1.2:** Button to set the active camera from the selected camera and immediately switch the viewport to it.
 
 ---
 
